@@ -1,0 +1,11 @@
+#Flask==0.12#.2
+#Jinja2==2.8
+#Werkzeug==0.13
+# deploy
+#gunicorn==19.5.0
+#gevent
+Flask==2.2.3
+Jinja2==3.1.2
+Werkzeug==2.2.3
+gunicorn==20.1.0
+gevent
